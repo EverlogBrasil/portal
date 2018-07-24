@@ -3,51 +3,51 @@
 # Version 1.0.0
 #
 # General
-$lang['id']                                 = 'ID';
-$lang['name']                               = 'Nome';
-$lang['options']                            = 'Opções';
-$lang['submit']                             = 'Salvar';
-$lang['added_successfully']                 = '%s adicionado com sucesso.';
-$lang['updated_successfully']               = '%s atualizado com sucesso.';
-$lang['edit']                               = 'Editar %s';
-$lang['add_new']                            = 'Adicionar novo %s';
-$lang['deleted']                            = '%s deletado';
-$lang['problem_deleting']                   = 'Deletado o problema %s';
-$lang['is_referenced']                      = 'O ID do %s já foi usado.';
-$lang['close']                              = 'Fechar';
-$lang['send']                               = 'Enviar';
-$lang['cancel']                             = 'Cancelar';
-$lang['go_back']                            = 'Voltar';
-$lang['error_uploading_file']               = 'Erro ao atualizar o arquivo';
-$lang['load_more']                          = 'Carregar Mais';
-$lang['cant_delete_default']                = 'Não é possível deletar o padrão %s';
+$lang['id']                                     = 'ID';
+$lang['name']                                   = 'Nome';
+$lang['options']                                = 'Opções';
+$lang['submit']                                 = 'Salvar';
+$lang['added_successfully']                     = '%s adicionado com sucesso.';
+$lang['updated_successfully']                   = '%s atualizado com sucesso.';
+$lang['edit']                                   = 'Editar %s';
+$lang['add_new']                                = 'Adicionar novo %s';
+$lang['deleted']                                = '%s deletado';
+$lang['problem_deleting']                       = 'Deletado o problema %s';
+$lang['is_referenced']                          = 'O ID do %s já foi usado.';
+$lang['close']                                  = 'Fechar';
+$lang['send']                                   = 'Enviar';
+$lang['cancel']                                 = 'Cancelar';
+$lang['go_back']                                = 'Voltar';
+$lang['error_uploading_file']                   = 'Erro ao atualizar o arquivo';
+$lang['load_more']                              = 'Carregar Mais';
+$lang['cant_delete_default']                    = 'Não é possível deletar o padrão %s';
 
 # Invoice General
-$lang['invoice_status_paid']                = 'Pago';
-$lang['invoice_status_unpaid']              = 'Não pago';
-$lang['invoice_status_overdue']             = 'Vencido';
-$lang['invoice_status_not_paid_completely'] = 'Parcialmente Pago';
+$lang['invoice_status_paid']                    = 'Pago';
+$lang['invoice_status_unpaid']                  = 'Não pago';
+$lang['invoice_status_overdue']                 = 'Vencido';
+$lang['invoice_status_not_paid_completely']     = 'Parcialmente Pago';
 
 $lang['invoice_pdf_heading'] = 'FATURAS';
 
-$lang['invoice_table_item_heading']            = 'Item';
-$lang['invoice_table_quantity_heading']        = 'Qtdd';
-$lang['invoice_table_rate_heading']            = 'Tarifa';
-$lang['invoice_table_tax_heading']             = 'Taxa';
-$lang['invoice_table_amount_heading']          = 'Quantia';
-$lang['invoice_subtotal']                      = 'Sub Total';
-$lang['invoice_adjustment']                    = 'Ajuste';
-$lang['invoice_total']                         = 'Total';
-$lang['invoice_bill_to']                       = 'Faturar Para';
-$lang['invoice_data_date']                     = 'Data da Fatura:';
-$lang['invoice_data_duedate']                  = 'Data de Vencimento:';
-$lang['invoice_received_payments']             = 'Transações';
-$lang['invoice_no_payments_found']             = 'Nenhum Pagamento encontrado para essa fatura';
-$lang['invoice_note']                          = 'Nota:';
-$lang['invoice_payments_table_number_heading'] = 'Pagamento #';
-$lang['invoice_payments_table_mode_heading']   = 'Modo de Pagamento';
-$lang['invoice_payments_table_date_heading']   = 'Data';
-$lang['invoice_payments_table_amount_heading'] = 'Quantia';
+$lang['invoice_table_item_heading']             = 'Item';
+$lang['invoice_table_quantity_heading']         = 'Qtdd';
+$lang['invoice_table_rate_heading']             = 'Tarifa';
+$lang['invoice_table_tax_heading']              = 'Taxa';
+$lang['invoice_table_amount_heading']           = 'Quantia';
+$lang['invoice_subtotal']                       = 'Sub Total';
+$lang['invoice_adjustment']                     = 'Ajuste';
+$lang['invoice_total']                          = 'Total';
+$lang['invoice_bill_to']                        = 'Faturar Para';
+$lang['invoice_data_date']                      = 'Data da Fatura:';
+$lang['invoice_data_duedate']                   = 'Data de Vencimento:';
+$lang['invoice_received_payments']              = 'Transações';
+$lang['invoice_no_payments_found']              = 'Nenhum Pagamento encontrado para essa fatura';
+$lang['invoice_note']                           = 'Nota:';
+$lang['invoice_payments_table_number_heading']  = 'Pagamento #';
+$lang['invoice_payments_table_mode_heading']    = 'Modo de Pagamento';
+$lang['invoice_payments_table_date_heading']    = 'Data';
+$lang['invoice_payments_table_amount_heading']  = 'Quantia';
 
 
 # Announcements
@@ -196,6 +196,7 @@ $lang['comment_this_post_placeholder']                      = 'Comentar essa pos
 $lang['newsfeed_post_likes_modal_heading']                  = 'Amigos que curtiram essa postagem';
 $lang['newsfeed_comment_likes_modal_heading']               = 'Amigos que curtiram esse comentário';
 $lang['newsfeed_newsfeed_post_only_visible_to_departments'] = 'Essa postagem está visível apenas para os seguintes departamentos: %s';
+
 # Invoice Items
 $lang['invoice_items']                     = 'Itens da Fatura';
 $lang['invoice_item']                      = 'Item da Fatura';
@@ -3287,17 +3288,17 @@ $lang['statement_sent_to_client_fail']                       = 'Problem while se
 $lang['view_account_statement']                              = 'View Account Statement';
 $lang['text_not_recommended_for_servers_limited_resources']  = 'Not recommended if the server have limited resources. Eq shared hosting';
 $lang['tasks_bull_actions_assign_notice']                    = 'If the task is linked to project and the staff member you are assigning the task to is not project member this staff will be auto added as member.';
-$lang['company_information']                                 = 'Company Information';
+$lang['company_information']                                 = 'Informações Empresa';
 $lang['ticket_form']                                         = 'Ticket Form';
 $lang['ticket_form_subject']                                 = 'Subject';
-$lang['ticket_form_name']                                    = 'Your name';
+$lang['ticket_form_name']                                    = 'Seu nome';
 $lang['ticket_form_email']                                   = 'Email Address';
-$lang['ticket_form_department']                              = 'Department';
+$lang['ticket_form_department']                              = 'Departmento';
 $lang['ticket_form_message']                                 = 'Message';
 $lang['ticket_form_priority']                                = 'Priority';
 $lang['ticket_form_service']                                 = 'Service';
-$lang['ticket_form_submit']                                  = 'Submit';
-$lang['ticket_form_attachments']                             = 'Attachments';
+$lang['ticket_form_submit']                                  = 'Enviar';
+$lang['ticket_form_attachments']                             = 'Anexos';
 
 $lang['success_submit_msg']                       = 'Thank you for contacting us. We will get back to you shortly.';
 $lang['vault_entry_share_on_projects']            = 'Share this vault entry in projects with project members';
@@ -3703,9 +3704,9 @@ $lang['customers_register_require_confirmation']                = 'Exigir a conf
 $lang['customer_requires_registration_confirmation']            = 'Requer confirmação de registro';
 $lang['confirm_registration']                                   = 'Confirme o registro';
 $lang['customer_registration_successfully_confirmed']           = 'Registro de clientes confirmado com sucesso';
-$lang['customer_register_account_confirmation_approval_notice'] = 'Thank you for registering, your account is pending approval and will be confirmed soon.';
-$lang['after_subscription_payment_succeeded']                   = 'After subscription payment is succeeded';
-$lang['subscription_option_send_invoice']                       = 'Send Invoice';
+$lang['customer_register_account_confirmation_approval_notice'] = 'Obrigado por se registrar, sua conta está aguardando aprovação e será confirmada em breve.';
+$lang['after_subscription_payment_succeeded']                   = 'Após o pagamento da assinatura ser obtido';
+$lang['subscription_option_send_invoice']                       = 'Enviar Fatura';
 $lang['subscription_option_send_payment_receipt']               = 'Enviar recibo de pagamento';
 $lang['subscription_option_send_payment_receipt_and_invoice']   = 'Enviar fatura e recibo de pagamento';
 $lang['subscription_option_do_nothing']                         = 'Sem ação';
